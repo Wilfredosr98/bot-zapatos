@@ -60,4 +60,4 @@ async def iniciar(ctx):
             print("Ha ocurrido un error =>", type(e).__name__)        
             time.sleep(20)
             driver.delete_all_cookies()
-bot.run("ODczNTkyNjY4NjU4MjI5MjU4.YQ6qkg.oEKWAEernIW7r_hVM-ZaMOcMcKY")
+bot.run("")
