@@ -61,4 +61,4 @@ async def iniciar(ctx):
 
 
 
-bot.run("ODcyNjE2MDEzMzU3NzkzMzEx.YQsc_g.KrlqsIhKEHDTp3yH6oUTDX6to20")
+bot.run("")
