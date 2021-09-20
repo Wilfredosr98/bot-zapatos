@@ -58,4 +58,4 @@ async def iniciar(ctx):
             time.sleep(20)
             driver.delete_all_cookies()
 
-bot.run("ODczNTkyMjY1NTE4NDg1NTE3.YQ6qMg.2z5dG3z1pgDnxfp1KaImQqDqlbY")
+bot.run("token")
